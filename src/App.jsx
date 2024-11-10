@@ -1,5 +1,6 @@
 
 import './App.css'
+import Todo from './Todo'
 
 function App() {
 
@@ -7,6 +8,10 @@ function App() {
     <>
       <h1>Vite + React</h1>
       <Person></Person>
+      {/* <Todo></Todo> */}
+      <Todo task="learn react" isDone={true}></Todo>
+      <Todo task="core concept" isDone={false}></Todo>
+      <Todo task="try JSX" isDone={true}></Todo>
       <Device name="Father"></Device>
       <Student className="class 2" point="3.87"></Student>
 
