@@ -3,6 +3,8 @@ import './App.css'
 import Todo from './Todo'
 import Actor from './Actor'
 import Singer from './Singer'
+import Event from './Event'
+
 
 function App() {
   const actors = ['khushhal khan', 'Siam Ahmad', 'Wahaj Ali', 'Bilal Abbas', 'Kartik Arian', 'Sallu Vai'];
@@ -15,15 +17,17 @@ function App() {
   return (
     <>
       <h1>Vite + React</h1>
+
+      <Event></Event>
       {/* <Singer></Singer> */}
-      {
+      {/* {
         singers.map(singer => <Singer singer={singer}></Singer>)
       }
       <Person></Person>
       <Actor actor="Mitu meya behen"></Actor>
       {
         actors.map(actor => <Actor name={actor}></Actor>)
-      }
+      } */}
       {/* <Todo task="learn react" isDone={true}></Todo>
       <Todo task="core concept" isDone={false}></Todo>
       <Todo task="try JSX" isDone={true}></Todo>
