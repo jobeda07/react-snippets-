@@ -5,6 +5,7 @@ import Actor from './Actor'
 import Singer from './Singer'
 import Event from './Event'
 import Counter from './Counter'
+import User from './User'
 
 
 function App() {
@@ -18,8 +19,10 @@ function App() {
   return (
     <>
       <h1>Vite + React</h1>
-      <Counter></Counter>
-      <Event></Event>
+      <User></User>
+
+      {/* <Counter></Counter>
+      <Event></Event> */}
       {/* <Singer></Singer> */}
       {/* {
         singers.map(singer => <Singer singer={singer}></Singer>)
