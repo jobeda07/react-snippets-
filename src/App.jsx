@@ -6,6 +6,7 @@ import Singer from './Singer'
 import Event from './Event'
 import Counter from './Counter'
 import User from './User'
+import Bottles from './Components/Bottles/Bottles'
 
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
   return (
     <>
       <h1>Vite + React</h1>
-      <User></User>
+      <Bottles></Bottles>
+      {/* <User></User> */}
 
       {/* <Counter></Counter>
       <Event></Event> */}

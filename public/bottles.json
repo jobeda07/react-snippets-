@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Water Bottle",
+        "material": "Plastic",
+        "capacity": "500ml",
+        "price": 5.99
+    },
+    {
+        "id": 2,
+        "name": "Insulated Flask",
+        "material": "Stainless Steel",
+        "capacity": "1L",
+        "price": 15.99
+    },
+    {
+        "id": 3,
+        "name": "Glass Juice Bottle",
+        "material": "Glass",
+        "capacity": "750ml",
+        "price": 8.49
+    },
+    {
+        "id": 4,
+        "name": "Sports Water Bottle",
+        "material": "Aluminum",
+        "capacity": "600ml",
+        "price": 12.50
+    },
+    {
+        "id": 5,
+        "name": "Eco-Friendly Bamboo Bottle",
+        "material": "Bamboo",
+        "capacity": "450ml",
+        "price": 19.99
+    },
+    {
+        "id": 6,
+        "name": "Kids Sipper Bottle",
+        "material": "Plastic",
+        "capacity": "300ml",
+        "price": 6.99
+    },
+    {
+        "id": 7,
+        "name": "Travel Thermos",
+        "material": "Stainless Steel",
+        "capacity": "750ml",
+        "price": 18.99
+    },
+    {
+        "id": 8,
+        "name": "Reusable Silicone Bottle",
+        "material": "Silicone",
+        "capacity": "500ml",
+        "price": 10.00
+    },
+    {
+        "id": 9,
+        "name": "Collapsible Camping Bottle",
+        "material": "Silicone",
+        "capacity": "1L",
+        "price": 14.75
+    },
+    {
+        "id": 10,
+        "name": "Premium Glass Water Bottle",
+        "material": "Glass",
+        "capacity": "1L",
+        "price": 20.00
+    }
+]
